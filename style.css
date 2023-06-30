@@ -1,0 +1,12 @@
+.NOTE{
+    margin: 5px blue;
+    color: yellowgreen;
+}
+canvas{
+    box-shadow: 5px 5px 38px 38px rgb(255, 0, 0);
+    border: 5px greenyellow;
+}
+
+#heading-song{
+    color-scheme: blue red green;
+}
